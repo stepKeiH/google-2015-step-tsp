@@ -1,0 +1,5 @@
+keihayashiのスコアはhw5_2_or_opt.pyです。
+keihayashi(improved)のスコアはhw5_3_or_opt.pyです。
+どちらもhw5_kruskal.pyをimportしています。
+hw5_3_or_opt.pyは非常に時間がかかり、input_6だと1時間程かかるのでご注意ください。
+hw_5_tes.pyはinput_0,input_1用に作った総当り法のものです。
